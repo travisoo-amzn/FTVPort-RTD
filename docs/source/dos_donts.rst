@@ -1,7 +1,8 @@
 Dos and Don'ts
 ###########
 
-    General Dos and Don’ts 
+General Dos and Don’ts 
+
 Dos
 
 * Always stick to your talking points. Be very controlled in your conversations and be sure you follow the guidance of what we’ve announced to date. 
@@ -27,7 +28,8 @@ Don’ts
 * Give out your business card to media.
 
  
-Helpful Tips & Tricks  
+Helpful Tips & Tricks 
+
 Here are some responses to remember when dealing with difficult questions (outside of questions from reporters and analysts, which you should always refer to a PR representative to handle): 
 
 * “I’m not the right person to answer that.”
